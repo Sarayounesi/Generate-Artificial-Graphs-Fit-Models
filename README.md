@@ -41,3 +41,11 @@ Compare and Analyze
 
 •  Analyze the results and discuss any interesting findings or patterns.
 
+------------------
+
+Repository Structure
+
+
+•  Code(https://github.com/Sarayounesi/Generate-Artificial-Graphs-Fit-Models/tree/main/Networke%20CodeBase)
+
+•  README.md: This file, providing an overview of the project and instructions.
