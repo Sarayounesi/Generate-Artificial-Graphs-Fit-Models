@@ -1,6 +1,6 @@
 # Artificial-Graphs-and-Fit-Models
 <img width="40" height="40" src="https://img.icons8.com/?size=100&id=kOPTH4LnJoIU&format=png&color=000000" alt="homework"/>Network Analysis and Model Fitting
-This repository contains solutions for Assignment #3, which involves collecting network datasets, fitting various models, and analyzing the results.
+This repository contains solutions for Assignment #3, which involves collecting network datasets, fitting various models, and analyzing the results- Spring, Dr.Rahmani-2023
 
 Assignment #3 Tasks
 1. 
